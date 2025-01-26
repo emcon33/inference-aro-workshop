@@ -2,6 +2,7 @@
 # This is a workshop for deploying a Pytorch & FastAPI project to ARO on Azure and perform inference.
 by Andrew Grimes and Jim Garrett of Red Hat 
 Verified Working 01/19/25
+No Longer Maintained 
 
 Containerized app that serves a containerized Resnet18 deep learning image classification model using FastAPI. We used an ImageNet pretrained model that can predict 1000 different classes of general objects, the samples are animals but it will work with anything. See class list [here](https://deeplearning.cms.waikato.ac.nz/user-guide/class-maps/IMAGENET/).
 
